@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1325619616,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssembly.App",
+        "AssemblyName": "BlazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssembly.App"
+        }
+      },
+      {
+        "HashCode": -1769659926,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssembly.App",
+        "AssemblyName": "BlazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWebAssembly.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssembly.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 36982818,
         "Kind": "Components.Component",
         "Name": "BlazorWebAssembly.Pages.Counter",
@@ -285,39 +318,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWebAssembly.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1325619616,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssembly.App",
-        "AssemblyName": "BlazorWebAssembly",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssembly.App"
-        }
-      },
-      {
-        "HashCode": -1769659926,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssembly.App",
-        "AssemblyName": "BlazorWebAssembly",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWebAssembly.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssembly.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

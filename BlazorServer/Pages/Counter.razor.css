@@ -1,0 +1,10 @@
+/* h1{
+    color: blue;
+} */
+
+/* Para que cambie también el estilo a cualquier componente insertado
+Deben estar ambos dentro de un div */
+::deep h1{
+    color :blue;
+    font-family: cursive;
+}
