@@ -111,6 +111,72 @@
         }
       },
       {
+        "HashCode": -708358687,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.App",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.App"
+        }
+      },
+      {
+        "HashCode": 634624817,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.App",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -832031650,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Shared.ComponenteHijo",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ComponenteHijo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Shared.ComponenteHijo"
+        }
+      },
+      {
+        "HashCode": -1174466078,
+        "Kind": "Components.Component",
+        "Name": "BlazorServer.Shared.ComponenteHijo",
+        "AssemblyName": "BlazorServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServer.Shared.ComponenteHijo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServer.Shared.ComponenteHijo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 714138104,
         "Kind": "Components.Component",
         "Name": "BlazorServer.Shared.SurveyPrompt",
@@ -289,72 +355,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServer.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -832031650,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Shared.ComponenteHijo",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ComponenteHijo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Shared.ComponenteHijo"
-        }
-      },
-      {
-        "HashCode": -1174466078,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.Shared.ComponenteHijo",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServer.Shared.ComponenteHijo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.Shared.ComponenteHijo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -708358687,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.App",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.App"
-        }
-      },
-      {
-        "HashCode": 634624817,
-        "Kind": "Components.Component",
-        "Name": "BlazorServer.App",
-        "AssemblyName": "BlazorServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServer.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServer.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
